@@ -1,0 +1,8 @@
+https://codepractice.ru/topics/joins
+https://www.sql-practice.online/scenario/joins
+
+https://codepractice.ru/topics/subqueries
+https://www.sql-practice.online/scenario/subqueries
+
+https://codepractice.ru/topics/aggregation
+https://www.sql-practice.online/scenario/aggregations
